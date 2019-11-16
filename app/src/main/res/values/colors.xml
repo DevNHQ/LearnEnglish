@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#146EB4</color>
+    <color name="colorPrimaryDark">#146EB4</color>
+    <color name="colorAccent">#146EB4</color>
+    <color name="color_White">#FFFFFF</color>
+    <color name="colorTextMain">#D81B60</color>
+    <color name="textLogin">#FFFFFF</color>
+    <color name="colorBackground">#E1E8ED</color>
+    <color name="colorGray">#a9a9a9</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBluegray">#E8F3EC</color>
+    <color name="colorwhiteGray">#BBBBBB</color>
+    <color name="colorwgr">#A6B1B7</color>
+    <color name="colorText">#333333</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="colorStartgradientBackground">#146EB4</color>
+    <color name="colorEndgradientBackground">#349fff</color>
+
+</resources>

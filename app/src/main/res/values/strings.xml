@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LearnEnglish</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_dashboard">BXH</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="update_profile">Cập nhật thông tin</string>
+    <string name="text_inside_circle_button_text_normal">ok</string>
+    <string name="text_outside_circle_button_text_normal">ok1</string>
+    <string name="text_ham_button_text_normal">0k2</string>
+    <string name="text_ham_button_sub_text_normal">0k3</string>
+    <string name="text_share">Share</string>
+    <string name="text_dowload">Dowload</string>
+    <string name="text_setwallpaper">Set Wallpaper</string>
+    <string name="text_star1">View and use shared wallpapers for free</string>
+    <string name="text_star2">Share your unique interesting photos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prompt_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_sign_in">Đăng Nhập</string>
+    <string name="login_facebook">Login with FaceBook</string>
+    <string name="emty">can not be empty</string>
+    <string name="sign_up_username">Name</string>
+    <string name="sign_up_Email">Email</string>
+    <string name="sign_up_Password">Password</string>
+    <string name="sign_up_Confirm">Confirmpassword</string>
+    <string name="sign_up">Đăng Kí</string>
+    <string name="lenght">min length 6,max lenth 20</string>
+    <string name="confirmpass">Confirt  password  incorrect</string>
+    <string name="facebook_app_id">595301440890605</string>
+    <string name="fb_login_protocol_scheme">fb595301440890605</string>
+    <string name="newpass">password incorrect</string>
+    <string name="review">LearnEnglish là ứng dụng học tập từ vựng tiếng anh, thông qua chữ, hình ảnh và âm thanh, cùng các trò chơi bài trắc nghiệm dành riêng cho người dùng di động tại Việt Nam,
+        Theo cơ sở các từ vựng theo chủ đề gắn liền với đời sống. Ứng dụng tạm thời chỉ hỗ trợ trên nền tảng Android.
+    </string>
+    <string name="pass">password is incorrect</string>
+    <string name="contact1">Email: quang.runin997@gmail.com</string>
+    <string name="contact2">Phone: 0384453681</string>
+    <string name="ownership">Ứng dụng được phát triển và sở hữu bởi NHQ - Nguyễn Hồng Quang</string>
+    <string name="account">Để sử dụng bạn phải tạo 1 tài khoản theo yêu cầu, hãy chắc chắn rằng bạn đã cung cấp một Email có tính xác thực</string>
+    <string name="update">Thỏa thuận này có thể được cập nhật thường xuyên bởi NHQ, phiên bản cập nhật sẽ thay thế cho các quy định và điều khoản  ban đầu.</string>
+    <string name="text_tearmofuser">Vui lòng đọc kĩ điều khoản thỏa thuận trước khi sử dụng ứng dụng,
+        trường hợp không đông ý vui lòng không tải và cài đặt sử dụng ứng dụng, hoặc gỡ cài đặt ứng dụng khỏi thiết bị</string>
+</resources>

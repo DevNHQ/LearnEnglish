@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "894123966745",
+    "firebase_url": "https://learnenglish-b2ec5.firebaseio.com",
+    "project_id": "learnenglish-b2ec5",
+    "storage_bucket": "learnenglish-b2ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894123966745:android:e04c94cf889da65341c588",
+        "android_client_info": {
+          "package_name": "com.devnhq.learnenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894123966745-37ucb6uh9cdg5kn5p7oguvqhk7ib8eid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devnhq.learnenglish",
+            "certificate_hash": "85733922154d678fdbdb8feb039ffc3ed269fb52"
+          }
+        },
+        {
+          "client_id": "894123966745-4aulfa4sl6m2uq3m6kj5f008rrggrn50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devnhq.learnenglish",
+            "certificate_hash": "4bd0fd3311ba88f056ea2a13374a3306a7c8cf93"
+          }
+        },
+        {
+          "client_id": "894123966745-vmbf1364g1nac64p0aqlbjq5a66m3udb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsvO8dkZ0kuBi5_8-cPNM8Wm0C_uamo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894123966745-vmbf1364g1nac64p0aqlbjq5a66m3udb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894123966745:android:b09e645180640d0741c588",
+        "android_client_info": {
+          "package_name": "com.devnhq.learnenglish.ui.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894123966745-a8e5rh3s5mvaj11m23db3rilv3gq52tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devnhq.learnenglish.ui.home",
+            "certificate_hash": "4bd0fd3311ba88f056ea2a13374a3306a7c8cf93"
+          }
+        },
+        {
+          "client_id": "894123966745-vmbf1364g1nac64p0aqlbjq5a66m3udb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsvO8dkZ0kuBi5_8-cPNM8Wm0C_uamo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894123966745-vmbf1364g1nac64p0aqlbjq5a66m3udb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

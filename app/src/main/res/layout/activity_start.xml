@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.StartActivity"
+    >
+
+    <ImageView
+        android:scaleType="centerInside"
+        android:id="@+id/imgmhc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/wp7progressBar"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="100dp"
+        android:src="@drawable/background_start" />
+
+    <ir.alirezabdn.wp7progress.WP7ProgressBar
+        android:id="@+id/wp7progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="100dp"
+        app:animationDuration="3000"
+        app:indicatorColor="@color/colorPrimaryDark"
+        app:indicatorHeight="5"
+        app:indicatorRadius="5"
+        app:interval="50" />
+
+    <TextView
+        android:id="@+id/tvmhc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text=" ® Nh.Quang" />
+
+</RelativeLayout>

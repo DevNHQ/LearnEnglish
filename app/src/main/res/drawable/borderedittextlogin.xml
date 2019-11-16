@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- View background color -->
+
+    <solid
+        android:startColor="#3a3985"
+        android:endColor="#3499ff"
+        >
+    </solid>
+
+    <!-- View border color and width -->
+    <padding android:left="5dp"
+        android:right="5dp">
+
+    </padding>
+    <!-- The radius makes the corners rounded -->
+    <corners
+        android:radius="10dp"   >
+    </corners>
+    <gradient
+        android:startColor="#FFFFFF"
+        android:endColor="#FFFFFF"
+        android:angle="180" />
+
+</shape>
